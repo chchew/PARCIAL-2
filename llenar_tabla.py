@@ -7,7 +7,7 @@ Parcial 2 DB
 import sqlite3 as sql
 import random
 
-conn = sql.connect('parcial2.db')
+conn = sql.connect('parcialdos.db')
 cursor = conn.cursor()
 
 """
